@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jauumgod
+- 👋 Hi, I’m @jauumgod osu!player BR#311 National.
 - 👀 I’m interested in improving my knowledge.
 - 🌱 I’m currently learning python, javascript, html and css...
 - 💞️ I try to collaborate with everything I know today, even if it's little..
