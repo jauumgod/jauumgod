@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jauumgod osu!player BR#311 National.
 - 👀 I’m interested in improving my knowledge.
-- 🌱 I’m currently learning python, JAVA, javascript, html and css...
+- 🌱 I’m currently learning python, C++, html and css...
 - 💞️ I try to collaborate with everything I know today, even if it's little..
 - 📫 How to reach me  @joaomarcosd90 instragram, email joaofs901@gmail.com
 
