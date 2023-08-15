@@ -14,4 +14,4 @@ Badge | URL
 ---
 ## 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=diogobonet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobonet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jauumgod)](https://github.com/jauumgod/github-readme-stats)
