@@ -1,15 +1,16 @@
+### 👋 Olá, eu sou o Joao Marcos DM
 
-- 👀 I’m interested in improving my knowledge.
-- 🌱 I’m currently learning Python/Flask || Dart/Flutter
-- 💞️ I try to collaborate with everything I know today, even if it's little..
-- 📫 How to reach me  @joaomarcosd90 instragram, email joaofs901@gmail.com
+## 💫 Sobre mim:
+👴 Tenho 26 anos<br>📚 Atualmente cursando ADS, Uniasselvi em Trindade-GO<br>👀 Interessado na área de Full-stack<br>
 
-<!---
-jauumgod/jauumgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## Skills
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | `https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white`
+
+---
+## 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=diogobonet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobonet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
