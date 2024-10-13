@@ -2,7 +2,7 @@
 
 ### 💫 Sobre mim:
 
-👴 Tenho 26 anos<br>📚 Atualmente cursando ADS, Uniasselvi em Trindade-GO<br>👀 Interessado na área de Full-stack<br>
+👴 Tenho 27 anos<br>📚 Atualmente cursando ADS, Uniasselvi em Trindade-GO<br>👀 Interessado na área de Full-stack<br>
 <p>Atualmente estou estudando flutter, mas tenho experiência com desenvolvimento de API rest com PYTHON/FLASK e paginas WEB com Flask </p>
 
 ## Skills
