@@ -9,9 +9,10 @@
 
 Badge | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | `https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white`
+<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white"/> | `https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white`
 <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white"/> | `https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=python&logoColor=white`
-<img src="https://img.shields.io/badge/MYSQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/> | `https://img.shields.io/badge/MYSQL-3776AB?style=for-the-badge&logo=python&logoColor=white`
+<img src="https://img.shields.io/badge/MYSQL-red?style=for-the-badge&logo=mysql&logoColor=white"/> | `https://img.shields.io/badge/MYSQL-3776AB?style=for-the-badge&logo=python&logoColor=white`
+<img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge"/> | `https://shields.io/badge/react-blue?logo=react&style=for-the-badge`
 ---
 ## 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=jauumgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
